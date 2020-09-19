@@ -35,8 +35,16 @@ All code that I write I try to open-source and place here on Github at some poin
 ### Refusing to learn cause reasons
  - Java
  - Javascript
- 
 
+
+## Projects I WANT to work on
+ - Linux kernel
+
+ 
+## Contact
+
+The best way to reach me and have me NOT block you immediately would be to [email me here](mailto:contact@draugeros.org).
+You can also find me on the [Linuxrocks.online Mastodon instance.](https://linuxrocks.online/@Batcastle)
 <!--
 **Batcastle/Batcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
