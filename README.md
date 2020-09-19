@@ -1,4 +1,4 @@
-### Hello there, fellow Hooman!
+# Hello there, fellow Hooman!
 
 My name is Thomas Castleman, although I go by Batcastle most places online.
 
@@ -18,7 +18,7 @@ All code that I write I try to open-source and place here on Github at some poin
  	
 ## Programming Languages
 
-# That I already know
+### That I already know
  - Python (2/3)
    - Intermediate-Advanced Skill Level
  - C++ (using gcc or g++)
@@ -28,10 +28,14 @@ All code that I write I try to open-source and place here on Github at some poin
  - BASH (4.0+)
    - Intermediate Skill Level
  
-# Learning
+### Learning
  - Rust
  - V
 	
+### Refusing to learn cause reasons
+ - Java
+ - Javascript
+ 
 
 <!--
 **Batcastle/Batcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
