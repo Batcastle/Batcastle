@@ -15,6 +15,13 @@ All code that I write I try to open-source and place here on Github at some poin
  	- Will be ported to Windows and MacOS in the future
  	- Will support Linux only initially
  	- Work-in-Progress
+ - [PyLibMan](https://github.com/Batcastle/PyLibMan)
+ 	- Book/User Management software for libraries
+ 	- Written in Python
+ 	- Other technologies utilized:
+ 		- SQLite
+ 		- GTK 3
+ 		- QR Codes
  	
 ## Programming Languages
 
@@ -31,10 +38,7 @@ All code that I write I try to open-source and place here on Github at some poin
 ### Learning
  - Rust
  - V
-	
-### Refusing to learn cause reasons
  - Java
- - Javascript
 
 
 ## Projects I WANT to work on
@@ -43,7 +47,7 @@ All code that I write I try to open-source and place here on Github at some poin
  
 ## Contact
 
-The best way to reach me and have me NOT block you immediately would be to [email me here](mailto:contact@draugeros.org).
+The best way to reach me and have me NOT block you immediately (I get a lot of spam) would be to [email me here](mailto:contact@draugeros.org).
 You can also find me on the [Linuxrocks.online Mastodon instance.](https://linuxrocks.online/@Batcastle)
 <!--
 **Batcastle/Batcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
