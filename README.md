@@ -10,35 +10,27 @@ All code that I write I try to open-source and place here on Github at some poin
  	- [Ubuntu](https://ubuntu.com)-based Linux Distribution
  	- Aims to provide maximum performance without sacrificing security, stability, or ease of use
  	- [Github](https://github.com/drauger-os-development)
- - [Derby Master](https://github.com/Batcastle/derby-master)
- 	- Pinewood Derby Race software
- 	- Will be ported to Windows and MacOS in the future
- 	- Will support Linux only initially
- 	- Work-in-Progress
- - [PyLibMan](https://github.com/Batcastle/PyLibMan)
- 	- Book/User Management software for libraries
+ - [system-installer](https://github.com/drauger-os-development/system-installer)
+ 	- Debian-based Linux OS installation utility
+ 	- Multi-threaded
+ 	- Modular
+ 	- distro-agnostic
  	- Written in Python
- 	- Other technologies utilized:
- 		- SQLite
- 		- GTK 3
- 		- QR Codes
+ - [systemd-boot-manager](https://github.com/drauger-os-development/systemd-boot-manager)
+ 	- [systemd-boot](https://www.freedesktop.org/wiki/Software/systemd/systemd-boot/) mangement utility
+ 	- Written in Python
+ 	- dual-boot support is a work in progress. Looking for help on that
+ 	- Compatibility Mode for X99 motherboards and locked-down UEFIs
  	
 ## Programming Languages
 
 ### That I already know
  - Python (2/3)
    - Intermediate-Advanced Skill Level
- - C++ (using gcc or g++)
+ - C++ (using g++)
    - Beginner-Intermediate Skill Level
- - C (gcc or g++)
-   - Beginner Skill Level
  - BASH (4.0+)
    - Intermediate Skill Level
- 
-### Learning
- - Rust
- - V
- - Java
 
 
 ## Projects I WANT to work on
