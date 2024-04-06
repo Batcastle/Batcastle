@@ -10,7 +10,7 @@ All code that I write I try to open-source and place here on Github at some poin
  	- [Ubuntu](https://ubuntu.com)-based Linux Distribution
  	- Aims to provide maximum performance without sacrificing security, stability, or ease of use
  	- [Github](https://github.com/drauger-os-development)
- - [system-installer](https://github.com/drauger-os-development/system-installer)
+ - [Edamame](https://github.com/drauger-os-development/edamame)
  	- Debian-based Linux OS installation utility
  	- Multi-threaded
  	- Modular
@@ -39,7 +39,7 @@ All code that I write I try to open-source and place here on Github at some poin
  
 ## Contact
 
-The best way to reach me and have me NOT block you immediately (I get a lot of spam) would be to [email me here](mailto:contact@draugeros.org).
+The best way to reach me and have me NOT block you immediately (I get a lot of spam) would be to [email me here](mailto:batcastle@draugeros.org).
 You can also find me on the [Linuxrocks.online Mastodon instance.](https://linuxrocks.online/@Batcastle)
 <!--
 **Batcastle/Batcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
